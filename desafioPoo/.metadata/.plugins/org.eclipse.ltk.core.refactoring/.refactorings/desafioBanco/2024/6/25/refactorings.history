@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void imprimirInfosComuns()&apos; from &apos;desafioBanco.ContaCorrente.imprimirExtrato()&apos; to &apos;desafioBanco.ContaCorrente&apos;&#x0D;&#x0A;- Original project: &apos;desafioBanco&apos;&#x0D;&#x0A;- Method name: &apos;imprimirInfosComuns&apos;&#x0D;&#x0A;- Destination type: &apos;desafioBanco.ContaCorrente&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;imprimirInfosComuns&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;desafioBanco{ContaCorrente.java" name="imprimirInfosComuns" replace="false" selection="173 198" stamp="1718741023092" version="1.0" visibility="2"/>
+</session>
