@@ -1,6 +1,5 @@
 # dio_javaPoo_bancodigital
 
-Descrição
 Este projeto implementa uma simulação básica de um sistema bancário em Java. A classe Conta foi desenvolvida para gerenciar informações relacionadas a contas bancárias, incluindo métodos para operações comuns, como depósitos, saques, tranferências e encerramento de contas.
 
 Novos Parâmetros e Métodos Adicionados
